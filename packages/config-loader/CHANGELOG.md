@@ -1,5 +1,41 @@
 # @web/config-loader
 
+## 0.3.2
+
+### Patch Changes
+
+- 3845d549: Set type to commonjs in package.json
+
+## 0.3.1
+
+### Patch Changes
+
+- 5b6e1bcd: Drop support for older node runtimes (12 and earlier)
+
+## 0.3.0
+
+### Minor Changes
+
+- c185cbaa: Set minimum node version to 18
+
+## 0.2.2
+
+### Patch Changes
+
+- 640ba85f: added types for main entry point
+
+## 0.2.1
+
+### Patch Changes
+
+- c26d3730: Update TypeScript
+
+## 0.2.0
+
+### Minor Changes
+
+- febd9d9d: Set node 16 as the minimum version.
+
 ## 0.1.3
 
 ### Patch Changes
